@@ -23,7 +23,7 @@ Pod::Spec.new do |s|
     # s.source_files  = 'Classes'
     # s.source_files  = 'Classes/**/*.{h,m}'
 
-    ss.source_files = 'WZCocoaPods'
+    ss.source_files = 'WZCocoaPods/**/*.{h,m}'
 
   end
 
